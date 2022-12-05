@@ -1,0 +1,23 @@
+body{
+	background-color: #e5e5e5
+}
+
+
+h1 {
+		margin-top: 70px;
+		text-align: center;
+		font-size: 64px;
+		font-family: "Courier New", monospace;
+		Font-weight: 500;
+}
+
+
+p{
+		text-align: center;
+		font-size: 24px;
+		font-family: "Courier New";
+}
+
+img{
+		margin-top: 60px;
+}

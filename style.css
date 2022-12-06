@@ -19,5 +19,10 @@ p{
 }
 
 img{
+		margin-left: ;
+		
 		margin-top: 60px;
+		:not("Approval")
+		margin-bottom: 60px;
+		:not("Approval")
 }
